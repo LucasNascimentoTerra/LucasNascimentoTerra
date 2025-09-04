@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a recent graduate in Computer Programming program at the Algonquin College.
 
 * 🌍  I'm based in Ottawa, Canada
-* ✉️  You can contact me at [lucas.n.terraa@gmail.com](mailto:lucasnterra03@gmail.com)
+* ✉️  You can contact me at [lucasnterra03@gmail.com](mailto:lucasnterra03@gmail.com)
 
 ### Skills
 
