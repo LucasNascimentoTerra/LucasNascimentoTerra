@@ -7,7 +7,7 @@
 ## 🌱 About Me
 - 🎓 I am a recent graduate in Computer Programming program at the Algonquin College.
 - 🌍 Based in **Orlando, FL**
-- 🔭 I’m currently working on a **Vpn**
+- 🔭 I’m currently working on a **Vpn** & learning **Docker 🐋**
 
 ## 🔧 Technologies & Tools
 
